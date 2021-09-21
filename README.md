@@ -1,0 +1,2 @@
+# Understanding-Reactjs
+Hi there! I have made a simple app using Reactjs, CSS3 and fake JSON data. Here I made a little blog regarding What is React JS, gave short brief about how React functional component works, lifecycle of class components, rendering data, hooks,  NPM, CLI, JSX, Webpack-Babel Compiler, React virtual DOM, Props vs States, Difference between Stateless and Stateful components. Hope Beginners will find it helpful, Happy coding!
