@@ -1,0 +1,15 @@
+.book{
+    background-color: white;
+    color: limegreen;
+    padding: 2px;
+    margin: 2px;
+    border-radius: 2px;
+    width: 90%;
+    height: 90%;
+    font-size: 12px;
+    cursor: zoom-in;
+}
+.book:hover{
+    transition: 0.5s ease-out;
+    transform: scale(1.5)
+}
